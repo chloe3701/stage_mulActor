@@ -1,0 +1,14 @@
+[project]
+name = "stage-multi-acteur"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.1"
+dependencies = [
+    "kaleido==0.1.*",
+    "matplotlib>=3.10.1",
+    "plotly>=6.0.1",
+    "pylatex>=1.4.2",
+    "pymoo>=0.6.1.3",
+    "pyomo>=6.9.2",
+]

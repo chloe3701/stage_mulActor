@@ -1,0 +1,12 @@
+# Ignorer tout les fichiers pycache
+*.pyc
+# Ignorer tout les affichages de résultat
+Resultats/*
+# Ignorer tout les fichiers .log
+*.log
+# Ignorer l'environnement virtuel
+env/*
+# Ignorer tout les fichiers .pdf
+*.pdf
+# Ignorer tout les fichiers .tex
+*.tex
