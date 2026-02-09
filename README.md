@@ -2,7 +2,7 @@
 ## Note
 Une version c++ de ce projet est disponible ici: https://github.com/chloe3701/MulActor
 
-##Methodologie
+## Methodologie
 Une explication de la méthodologie implémentée peut-être trouvée section 5. du rapport fourni.
 La modélisation du réseau utilisée est détaillée Annexe A.
 L'organisation du code est présentée en Annexe B.
